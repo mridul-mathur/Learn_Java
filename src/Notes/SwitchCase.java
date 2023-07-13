@@ -7,11 +7,39 @@ public class SwitchCase {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a Fruit: ");
         String fruit = in.next();
-        switch (fruit) {
-            case "Mango" -> System.out.println("King");
-            case "Apple" -> System.out.println("!Doctor");
-            case "Banana" -> System.out.println("Tasty");
-            default -> System.out.println("Enter valid fruit");
+        /*
+        switch(expressions){
+        case 1
+            return;
+        case 2
+            return;
         }
+         */
+
+        System.out.println(switch (fruit) {
+            case "Mango" -> "King";
+            case "Apple" -> "!Doctor";
+            case "Banana" -> "Tasty";
+            default -> "Enter valid fruit";
+        });
+
+        //Nested Switch cases
+        /*
+         switch(expression){
+            case 1 :
+                switch(expression_2){
+                    case 1 :
+                        return;
+                        break;
+                    case 2 :
+                        return;
+                        break;
+                }
+            case 2 :
+                return;
+                break;
+         }
+         */
+         
     }
 }
