@@ -6,6 +6,7 @@ public class Questions_lec {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
+/*
 
         // Q1 Find the largest of 3 numbers
         int a = 10;
@@ -60,7 +61,7 @@ public class Questions_lec {
         int rev = 0;
         while (num > 0) {
             int rem = num % 10;
-            rev = rev*10 + rem;
+            rev = rev * 10 + rem;
             num /= 10;
         }
         System.out.println(rev);
@@ -69,19 +70,66 @@ public class Questions_lec {
         System.out.println("Enter 2 numbers: ");
         int a1 = in.nextInt();
         int b1 = in.nextInt();
-        swap(a1,b1);
+        swap(a1, b1);
         System.out.println(a1 + " : " + b1);
-        /*  the numbers actually didn't swap as the values changes
+        */
+/*  the numbers actually didn't swap as the values changes
             just under a function.
             the num1 and num2 are assigned with the value of a1 and b1
             but a1 and b1 are not assigned the value of num1 and num2
             a reference variable is passed and hence the actual values
             doesn't change at all.
-         */
+         *//*
+
+
+        //Q7 number is Prime or not
+        int n1 = in.nextInt();
+        System.out.println(isprime(n1));
+
+*/
+
+        //Q8 Print all three digit armstrong numbers
+        for (int number = 100; number < 1000; number += 1) {
+            if (isarms(number)) {
+                System.out.print(number + " ");
+            }
+        }
     }
 
-    private static void swap(int num1 , int num2) {
-        System.out.println("Before Swapping: " + num1 + " : " + num2 );
+    private static boolean isarms(int number) {
+        int arm = number;
+        int sum = 0;
+        while (number > 0) {
+            int rem = number % 10;
+            number /= 10;
+            sum += rem * rem * rem;
+        }
+        if (sum == arm) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    private static boolean isprime(int n1) {
+        if (n1 <= 1) {
+            System.out.print("Prime: ");
+            return false;
+        }
+        int c = 2;
+        while (c * c <= n1) {
+            if (n1 % c == 0) {
+                System.out.print("Prime: ");
+                return false;
+            }
+            c += 1;
+        }
+        System.out.print("Prime: ");
+        return c * c > n1;
+    }
+
+    private static void swap(int num1, int num2) {
+        System.out.println("Before Swapping: " + num1 + " : " + num2);
         int temp = num1;
         num1 = num2;
         num2 = temp;

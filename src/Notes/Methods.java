@@ -31,7 +31,7 @@ public class Methods {
         a function can also be of void type such that
         no return value is required;
     */
-    static void greet(){
+    static void greet() {
         System.out.println("Hello Boy!" + "\nLet's add->");
     }
 }
