@@ -4,7 +4,7 @@ public class Scoping {
     public static void main(String[] args) {
         //Scope means where we can access our variables
 
-        /* Method scope
+        /* 1. Method scope
         a variable inside a function can only be accessed
         within the function by default and that is also true
         for all the arguments. And changes made to them will
@@ -15,7 +15,7 @@ public class Scoping {
         // System.out.println(num); this will give an error
 
         /*
-            Block Scope
+            2. Block Scope
             a variable initialized within a block can't be
             accessed outside the block
          */
@@ -29,6 +29,15 @@ public class Scoping {
         }
 
         // System.out.println(c); This will give a error
+
+        // 3. Loop Scoping
+
+        for (int i = 0; i < 4; i++) {
+            int num = 40;
+            //int a = 20; a is already defined so this will give error.
+            // i have to be initialized again outside the block
+        }
+
     }
 
     /*static int sum(a,b) { This will show an error cuz a,b
