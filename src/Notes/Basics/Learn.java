@@ -1,4 +1,4 @@
-package Notes;/* the folder in which the java file lies;
+package Notes.Basics;/* the folder in which the java file lies;
 it is important as sometimes we need to provide some rules
 or properties or methods that we want to be accessed by
 only the files in this package; */

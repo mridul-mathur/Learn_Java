@@ -1,4 +1,4 @@
-package Notes;
+package Notes.Methods;
 
 import java.util.Scanner;
 

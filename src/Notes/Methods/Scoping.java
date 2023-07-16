@@ -1,4 +1,4 @@
-package Notes;
+package Notes.Methods;
 
 public class Scoping {
     public static void main(String[] args) {

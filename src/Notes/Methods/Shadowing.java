@@ -1,4 +1,4 @@
-package Notes;
+package Notes.Methods;
 
 public class Shadowing {
 

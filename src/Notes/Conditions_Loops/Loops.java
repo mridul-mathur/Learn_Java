@@ -1,4 +1,4 @@
-package Notes;
+package Notes.Conditions_Loops;
 
 import java.util.Scanner;
 
