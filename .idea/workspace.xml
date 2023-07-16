@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Mdimen_arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Conditions_Loops/Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Conditions_Loops/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Method_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Method_overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Primitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Primitive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Scoping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Scoping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Shadowing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Sum_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Sum_no.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Conditions_Loops/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Typecast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Typecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/VarArgs.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +68,7 @@
       <workItem from="1689235073539" duration="5639000" />
       <workItem from="1689445391836" duration="6357000" />
       <workItem from="1689481352008" duration="9912000" />
+      <workItem from="1689523400290" duration="24000" />
     </task>
     <servers />
   </component>
