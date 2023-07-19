@@ -35,5 +35,9 @@ public class Mdimen_arr {
                 System.out.print(arr[i][j] + " ");
             }
         }
+
+        for(int g = 0; g<5 ; g++){
+            System.out.println(g);
+        }
     }
 }
