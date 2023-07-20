@@ -3,7 +3,7 @@ package Notes.Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Mdimen_arr {
+public class D2_arr {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         /*
@@ -14,11 +14,11 @@ public class Mdimen_arr {
         datatype arr_name[][] = new datatype[rows][columns];
         //no. of rows is necessary not columns
         */
-        int [][] arr = new int[3][3];
-        int [][] arr1 = {
-                {1,2,3},
-                {4,5,6},
-                {7,8,9},
+        int[][] arr = new int[3][3];
+        int[][] arr1 = {
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9},
         };
         System.out.println(Arrays.toString(arr1[0]));
 
@@ -34,10 +34,6 @@ public class Mdimen_arr {
             for (int j = 0; j < arr[i].length; j++) {
                 System.out.print(arr[i][j] + " ");
             }
-        }
-
-        for(int g = 0; g<5 ; g++){
-            System.out.println(g);
         }
     }
 }

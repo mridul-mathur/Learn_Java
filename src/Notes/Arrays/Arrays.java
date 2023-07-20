@@ -1,6 +1,7 @@
 package Notes.Arrays;
 
 import java.util.*;
+
 public class Arrays {
     public static void main(String[] args) {
         //Arrays are collection of data with same datatype.
@@ -26,7 +27,7 @@ public class Arrays {
         int a = new Integer(20);
         System.out.println(a);
         System.out.println(roll[2]);//2 is the index of array, this prints 3
-        int numb [] = new int[3];
+        int numb[] = new int[3];
         System.out.println(numb); // this prints 0 for int null for string.
 
 
@@ -38,22 +39,22 @@ public class Arrays {
         //what should be the predefined value?
 
         String arr1[] = new String[5];//at the initialization object of
-                                      //array point to null.
-                                      //this is a array of objects not primitives.
+        //array point to null.
+        //this is a array of objects not primitives.
 
         // input in arrays
 
         Scanner in = new Scanner(System.in);
         int arrn[] = new int[5];
-        for (int i = 0; i < arrn.length; i+=1) {
+        for (int i = 0; i < arrn.length; i += 1) {
             arrn[i] = in.nextInt();
         }
-        for (int i = 0; i < arrn.length ; i++) {
+        for (int i = 0; i < arrn.length; i++) {
             System.out.print(arrn[i] + "  ");
         }
         System.out.println(java.util.Arrays.toString(arrn));
 
-        for (int i = 0; i <arr1.length ; i++) {
+        for (int i = 0; i < arr1.length; i++) {
             arr1[i] = in.next();
         }
         System.out.print(java.util.Arrays.toString(arr1));

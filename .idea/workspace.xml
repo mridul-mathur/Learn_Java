@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Mdimen_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Mdimen_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/D2_ArrLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Dynamic_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Max_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Rev_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Arrays/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Mdimen_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/D2_arr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +80,8 @@
       <workItem from="1689523400290" duration="24000" />
       <workItem from="1689619153606" duration="1810000" />
       <workItem from="1689698232024" duration="930000" />
-      <workItem from="1689790306973" duration="645000" />
+      <workItem from="1689790306973" duration="1256000" />
+      <workItem from="1689831587101" duration="5047000" />
     </task>
     <servers />
   </component>
@@ -109,6 +117,10 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
