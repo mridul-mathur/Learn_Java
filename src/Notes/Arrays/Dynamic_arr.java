@@ -22,8 +22,7 @@ public class Dynamic_arr {
         System.out.println(arr.contains(12));
         arr.add(0, 21);
         arr.set(0, 99);
-        System.out.println(arr);
-
+        System.out.println(arr.toArray());
         /*
             internal working of ArrayList-:
             size is actually fixed internally but when array list fills to
