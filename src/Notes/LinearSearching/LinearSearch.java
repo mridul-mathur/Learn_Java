@@ -4,6 +4,7 @@ package Notes.LinearSearching;
 public class LinearSearch {
     public static void main(String[] args) {
         //searching some element in an array using linear search.
+        //Worst case -> N comparisons.
         int[] arr = {-1, 2, -7, 3, 5, 9, 6, -10, 8, -4};
         int target = -10;
         int ans = linear_serch(arr, target);

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Array_String/RevWordsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/CeilingFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/Unkownorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,8 @@
       <workItem from="1691239625818" duration="11518000" />
       <workItem from="1691261065680" duration="15394000" />
       <workItem from="1691346693354" duration="2386000" />
-      <workItem from="1691385906333" duration="17296000" />
+      <workItem from="1691385906333" duration="18159000" />
+      <workItem from="1691474219819" duration="12031000" />
     </task>
     <servers />
   </component>
@@ -112,11 +116,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Notes/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
