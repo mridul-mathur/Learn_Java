@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/FirstLastRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/Greatestchar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/PeakIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Array_String/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Array_String/Triplets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1691261065680" duration="15394000" />
       <workItem from="1691346693354" duration="2386000" />
       <workItem from="1691385906333" duration="18159000" />
-      <workItem from="1691474219819" duration="24537000" />
+      <workItem from="1691474219819" duration="31464000" />
     </task>
     <servers />
   </component>
