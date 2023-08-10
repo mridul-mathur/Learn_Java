@@ -45,18 +45,4 @@ public class Questions {
         }
         return false;
     }
-
-    public static int startFrom (ArrayList<Integer>s) {
-        int min = 0;
-        if (s.get(0) < s.get(1) && s.get(0) <= s.get(2)) {
-            min = 0;
-        } else if (s.get(1) <= s.get(0) && s.get(1) < s.get(2)) {
-            min = 1;
-        } else if (s.get(2) < s.get(0) && s.get(2) <= s.get(1)) {
-            min = 2;
-        } else {
-            return -1;
-        }
-        return min;
-    }
 }
