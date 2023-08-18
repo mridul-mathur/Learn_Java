@@ -3,7 +3,7 @@ package Notes.BinarySearch;
 public class Greatestchar {
     public static void main(String[] args) {
         char[] arr = {'c', 'd', 'g', 'm', 'p', 't', 'w'};
-        System.out.println(greater(arr, 'a'));
+        System.out.println(greater(arr, 'o'));
     }
 
     public static char greater(char[] arr, char target) {
