@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="">
+    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/PeakIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/PeakIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2SPcZWRqH6lP7ydQQWIHsZS9VHo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,13 +51,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mridul/Documents/GitHub/Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mridulmathur/Documents/GitHub/Learn_Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mridul/IdeaProjects/java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -87,6 +94,9 @@
       <workItem from="1691667434968" duration="66000" />
       <workItem from="1692158904041" duration="7315000" />
       <workItem from="1692281157010" duration="5069000" />
+      <workItem from="1692378075987" duration="205000" />
+      <workItem from="1692415856454" duration="7000" />
+      <workItem from="1692438687373" duration="6247000" />
     </task>
     <servers />
   </component>
@@ -126,7 +136,7 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode75/Array_String/MoveZeros.java</url>
+          <url>file://$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java</url>
           <line>13</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

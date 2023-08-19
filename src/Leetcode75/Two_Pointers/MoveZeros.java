@@ -1,4 +1,4 @@
-package Leetcode75.Array_String;
+package Leetcode75.Two_Pointers;
 
 import java.util.Arrays;
 
