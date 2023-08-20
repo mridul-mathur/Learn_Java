@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class MoveZeros {
     public static void main(String[] args) {
-        int arr[]= {0,1,0,3,12};
-        int zero [] = moveZeroes(arr);
+        int arr[] = {0, 1, 0, 3, 12};
+        int zero[] = moveZeroes(arr);
         System.out.println(Arrays.toString(zero));
     }
 
@@ -20,7 +20,7 @@ public class MoveZeros {
                 i++;
             }
         }
-        while(i<nums.length){
+        while (i < nums.length) {
             nums[i] = 0;
             i++;
         }
