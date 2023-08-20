@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Sliding_Window/FindMaxAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Sliding_Window/MaxVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/FindInMountainArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/IsSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/FirstLastRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearch/FirstLastRepeat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +92,7 @@
       <workItem from="1692378075987" duration="205000" />
       <workItem from="1692415856454" duration="7000" />
       <workItem from="1692438687373" duration="12202000" />
-      <workItem from="1692506331659" duration="4568000" />
+      <workItem from="1692506331659" duration="5889000" />
     </task>
     <servers />
   </component>
