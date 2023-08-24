@@ -13,7 +13,7 @@ public class BinarySearch {
         5. and now find the middle of new end and start.
         6. if the target element is equal to middle element, then return middle.
         */
-        System.out.println("Index of target: " + binarySearch(arr, 67));
+        System.out.println("Index of target: " + binarySearch(arr, 89));
     }
 
     public static int binarySearch(int[] arr, int target) {
@@ -23,13 +23,13 @@ public class BinarySearch {
         int start = 0;
         int end = arr.length - 1;
         while (start <= end) {
-            int middle = start + (end - start) / 2;
-            if (target > arr[middle]) {
-                start = middle + 1;
-            } else if (target < arr[middle]) {
-                end = middle - 1;
+            int mid = start + (end - start) / 2;
+            if (target > arr[mid]) {
+                start = mid + 1;
+            } else if (target < arr[mid]) {
+                end = mid - 1;
             } else {
-                return middle;
+                return mid;
             }
         }
         return -1;
