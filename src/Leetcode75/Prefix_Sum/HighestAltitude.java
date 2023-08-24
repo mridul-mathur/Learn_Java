@@ -7,6 +7,7 @@ public class HighestAltitude {
         int[] gain = {-5, 1, 5, 0, -7};
         System.out.println(largestaltitude(gain));
     }
+
     public static int largestaltitude(int[] gain) {
         int max = 0;
         int[] arr = altitudes(gain);
@@ -19,6 +20,7 @@ public class HighestAltitude {
         }
         return max;
     }
+
     public static int[] altitudes(int[] gain) {
         int[] arr = new int[gain.length + 1];
         int i = 1;
