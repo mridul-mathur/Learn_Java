@@ -1,4 +1,4 @@
-package Notes.BinarySearch;
+package Notes.BinarySearching;
 
 public class RotationCount {
     public static void main(String[] args) {
