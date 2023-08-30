@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
-      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/BubbleSorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/CeilingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FindInMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/FirstLastRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FirstLastRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/Greatestchar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/Greatestchar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/PeakIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/PeakIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/RotatedArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/RotationCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/RotationCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearch/Unkownorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/Unkownorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BubbleSorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +102,9 @@
       <workItem from="1692800819199" duration="18589000" />
       <workItem from="1692972558744" duration="2245000" />
       <workItem from="1692988491237" duration="3078000" />
-      <workItem from="1693027936566" duration="10499000" />
+      <workItem from="1693027936566" duration="10813000" />
+      <workItem from="1693229252832" duration="1682000" />
+      <workItem from="1693327773295" duration="5487000" />
     </task>
     <servers />
   </component>
@@ -173,6 +167,11 @@
           <url>file://$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java</url>
           <line>15</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
