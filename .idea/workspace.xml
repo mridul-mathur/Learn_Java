@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
-      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/AllMissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/FindDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +102,8 @@
       <workItem from="1692988491237" duration="3078000" />
       <workItem from="1693027936566" duration="10813000" />
       <workItem from="1693229252832" duration="1682000" />
-      <workItem from="1693327773295" duration="12011000" />
+      <workItem from="1693327773295" duration="12682000" />
+      <workItem from="1693452143742" duration="1146000" />
     </task>
     <servers />
   </component>
