@@ -1,6 +1,6 @@
 package Notes.Arrays;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Arrays {
     public static void main(String[] args) {
@@ -17,17 +17,17 @@ public class Arrays {
         //or directly
         int[] roll = {1, 2, 3, 4, 5};
         //int roll = {0,1,2,3,4} <- Index of arrays begin from 0;
-        int ros[];// declarations of array;
+        int[] ros;// declarations of array;
         ros = new int[10];//initialization: the memory creation happens here.
         /*
         this is now object that is stored in heap.
         dynamic memory allocations, array objects are not
         stored continuous(Heap storage).
         */
-        int a = new Integer(20);
+        int a = Integer.valueOf(20);
         System.out.println(a);
         System.out.println(roll[2]);//2 is the index of array, this prints 3
-        int numb[] = new int[3];
+        int[] numb = new int[3];
         System.out.println(numb); // this prints 0 for int null for string.
 
 
@@ -38,14 +38,14 @@ public class Arrays {
         //what if we have an array of objects not primitives then
         //what should be the predefined value?
 
-        String arr1[] = new String[5];//at the initialization object of
+        String[] arr1 = new String[5];//at the initialization object of
         //array point to null.
         //this is a array of objects not primitives.
 
         // input in arrays
 
         Scanner in = new Scanner(System.in);
-        int arrn[] = new int[5];
+        int[] arrn = new int[5];
         for (int i = 0; i < arrn.length; i += 1) {
             arrn[i] = in.nextInt();
         }

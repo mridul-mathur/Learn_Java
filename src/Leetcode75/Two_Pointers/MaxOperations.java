@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MaxOperations {
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4};
+        int[] arr = {1, 2, 3, 4};
         int k = 5;
         int count = maxOperations(arr, k);
         System.out.println(count);

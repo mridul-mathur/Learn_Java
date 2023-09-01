@@ -10,7 +10,7 @@ public class SearchIn2D {
                 {65, 45, 56},
         };
         int target = 76;
-        int ans[] = search2d(arr, target);
+        int[] ans = search2d(arr, target);
         System.out.println(Arrays.toString(ans));
         //max value
         int max = maxvale(arr);

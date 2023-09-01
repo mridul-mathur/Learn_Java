@@ -10,8 +10,8 @@ public class Method_overloading {
         fun(21, "Mridul");
         fun(21, 43);
 
-        sum(21,32);
-        sum(43,54,65);
+        sum(21, 32);
+        sum(43, 54, 65);
     }
 
     static void fun(int a, int b) {

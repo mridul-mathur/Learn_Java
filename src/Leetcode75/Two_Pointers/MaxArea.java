@@ -2,7 +2,7 @@ package Leetcode75.Two_Pointers;
 
 public class MaxArea {
     public static void main(String[] args) {
-        int arr[] = {1, 8, 6, 2, 5, 4, 8, 3, 7};
+        int[] arr = {1, 8, 6, 2, 5, 4, 8, 3, 7};
         int area = maxArea(arr);
         System.out.println(area);
     }

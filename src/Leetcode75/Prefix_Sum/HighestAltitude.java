@@ -1,7 +1,5 @@
 package Leetcode75.Prefix_Sum;
 
-import java.util.Arrays;
-
 public class HighestAltitude {
     public static void main(String[] args) {
         int[] gain = {-5, 1, 5, 0, -7};

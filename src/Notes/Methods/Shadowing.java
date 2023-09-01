@@ -2,9 +2,9 @@ package Notes.Methods;
 
 public class Shadowing {
 
-    int a;// this has its own scope
     // to use this var we have to add static to it.
     static int b = 40;
+    int a;// this has its own scope
 
     public static void main(String[] args) {
         //a=10; this will give error.

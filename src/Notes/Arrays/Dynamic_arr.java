@@ -31,7 +31,8 @@ public class Dynamic_arr {
             old arrList is deleted.
         */
     }
-    public static int startFrom (ArrayList<Integer>s) {
+
+    public static int startFrom(ArrayList<Integer> s) {
         int min = 0;
         if (s.get(0) < s.get(1) && s.get(0) <= s.get(2)) {
             min = 0;

@@ -2,14 +2,10 @@ package Leetcode75.Array_String;
 
 public class PlaceFlower {
     public static void main(String[] args) {
-        int arr[] = {0,0,1,0,0};
+        int[] arr = {0, 0, 1, 0, 0};
         int expected = 1;
         int available = FlowerPots(arr);
-        if(available>=expected){
-            System.out.println(true);
-        }else {
-            System.out.println(false);
-        }
+        System.out.println(available >= expected);
     }
 
     public static int FlowerPots(int[] arr) {

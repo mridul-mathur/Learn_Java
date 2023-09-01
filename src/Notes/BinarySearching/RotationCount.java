@@ -14,11 +14,11 @@ public class RotationCount {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] >= nums[max]) {
                 max = i;
-                if (nums[max] > nums[max+1]) {
+                if (nums[max] > nums[max + 1]) {
                     break;
                 }
             }
         }
-        return max+1;
+        return max + 1;
     }
 }
