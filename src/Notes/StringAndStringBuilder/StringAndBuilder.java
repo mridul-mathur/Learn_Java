@@ -31,9 +31,6 @@ public class StringAndBuilder {
         Why are Strings immutable?
         if p1 wants to change the name to "Sakshi" then immutability helps to
         protect the name of other people, as new object is created instead.
-         */
-        int n = 21;
-
-        System.out.println();
+        */
     }
 }

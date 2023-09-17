@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/StringAndBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/StringAndBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/StringAndBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +108,13 @@
       <workItem from="1693327773295" duration="12682000" />
       <workItem from="1693452143742" duration="12179000" />
       <workItem from="1693641340317" duration="1625000" />
-      <workItem from="1693653938112" duration="3627000" />
+      <workItem from="1693653938112" duration="6998000" />
+      <workItem from="1693727545425" duration="1288000" />
+      <workItem from="1694235229364" duration="807000" />
+      <workItem from="1694256563262" duration="1433000" />
+      <workItem from="1694843288388" duration="2666000" />
+      <workItem from="1694973778847" duration="1409000" />
+      <workItem from="1694977177171" duration="2506000" />
     </task>
     <servers />
   </component>
