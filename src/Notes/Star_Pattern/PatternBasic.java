@@ -13,6 +13,7 @@ public class PatternBasic {
 
         /*
         Print-:
+
         1.  *
             * *
             * * *
@@ -40,15 +41,32 @@ public class PatternBasic {
             * * *
             * *
             *
+
+        5.          *
+                  * *
+                * * *
+              * * * *
+            * * * * *
+
+        6.       *
+                * *
+               * * *
+              * * * *
+             * * * * *
+        7.
         */
         int n = 5;
         pattern1(n);
-        System.out.println("#########");
+        System.out.println();
         pattern2(n);
-        System.out.println("#########");
+        System.out.println();
         pattern3(n);
-        System.out.println("#########");
+        System.out.println();
         pattern4(n);
+        System.out.println();
+        pattern5(n);
+        System.out.println();
+        pattern6(n);
     }
 
     public static void pattern1(int n) {
@@ -88,6 +106,30 @@ public class PatternBasic {
         for (int i = 1; i <= n; i++) {
             for (int j = n; j > i ; j--) {
                 System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void pattern5(int n){
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < n-i; j++) {
+                System.out.print("  ");
+            }
+            for (int j = 0; j < i; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void pattern6(int n){
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < n-i; j++) {
+                System.out.print(" ");
+            }
+            for (int j = 0; j < (2*i)-1; j++) {
+                System.out.print("*");
             }
             System.out.println();
         }

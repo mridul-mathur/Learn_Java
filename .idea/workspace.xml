@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q" />
+    <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +113,11 @@
       <workItem from="1694843288388" duration="2666000" />
       <workItem from="1694973778847" duration="1409000" />
       <workItem from="1694977177171" duration="2729000" />
+      <workItem from="1695290501207" duration="5232000" />
+      <workItem from="1695366653863" duration="1034000" />
+      <workItem from="1695537647601" duration="1685000" />
+      <workItem from="1695551575330" duration="1309000" />
+      <workItem from="1695647621886" duration="3194000" />
     </task>
     <servers />
   </component>
