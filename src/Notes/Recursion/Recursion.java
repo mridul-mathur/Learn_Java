@@ -25,12 +25,12 @@ public class Recursion {
         System.out.println(printnumb(5));
     }
 
-    public static int printnumb(int n){
-        if (n==0){
+    public static int printnumb(int n) {
+        if (n == 0) {
             return n;
-        }else {
+        } else {
             System.out.println(n);
-            return printnumb(n-1);
+            return printnumb(n - 1);
         }
     }
 }

@@ -7,7 +7,7 @@ public class VarArgs {
         /*when we do not know how many inputs are
         we giving.
         */
-        fun(1, 3, 5, 7, 9); //return array[1,3,5,7,9]
+        fun(1, 3, 5, 7, 9, 10); //return array[1,3,5,7,9]
         fun();//an empty array is printed []
     }
 

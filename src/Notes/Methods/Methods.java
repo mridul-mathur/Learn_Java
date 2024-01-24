@@ -13,7 +13,7 @@ public class Methods {
     }
 
     /*
-        access modifier return_type name(arguments){
+        access odifiemr return_type name(arguments){
             body;
             return statement;
         }

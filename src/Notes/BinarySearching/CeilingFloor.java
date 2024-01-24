@@ -3,7 +3,7 @@ package Notes.BinarySearching;
 public class CeilingFloor {
     public static void main(String[] args) {
         int[] arr = {-98, -87, -76, -65, -54, -43, -32, -21, 12, 23, 34, 45, 56, 67, 78, 89, 90};
-        int ceilng = floor(arr, 99);
+        int ceilng = floor(arr, 77);
         System.out.println(ceilng);
         int floor = ceiling(arr, -99);
         System.out.println(floor);
