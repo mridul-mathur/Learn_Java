@@ -7,11 +7,11 @@ public class LinearSearch {
         //Worst case -> N comparisons.
         int[] arr = {-1, 2, -7, 3, 5, 9, 6, -10, 8, -4};
         int target = -10;
-        int ans = linear_serch(arr, target);
+        int ans = linear_search(arr, target);
         System.out.println("The index of '" + target + "'  is: " + ans);
     }
 
-    public static int linear_serch(int[] arr, int target) {
+    public static int linear_search(int[] arr, int target) {
         if (arr.length == 0) {
             return -1;
         } else {

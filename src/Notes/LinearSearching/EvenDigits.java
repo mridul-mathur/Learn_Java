@@ -2,7 +2,7 @@ package Notes.LinearSearching;
 
 public class EvenDigits {
     public static void main(String[] args) {
-        int[] arr = {12, 345, 2, 6, 7896, -10, -111, -2376};
+        int[] arr = {12, 345, 2, 6, 7806, -10, -111, -2376};
         int num = CountEven(arr);
         System.out.println(num);
     }

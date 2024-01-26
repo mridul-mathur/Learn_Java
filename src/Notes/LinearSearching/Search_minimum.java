@@ -11,9 +11,9 @@ public class Search_minimum {
             return Integer.MIN_VALUE;
         }
         int min = arr[0];
-        for (int i = 0; i < arr.length - 1; i++) {
-            if (arr[i] > arr[i + 1]) {
-                min = arr[i + 1];
+        for (int i = 1; i < arr.length - 1; i++) {
+            if (min > arr[i]) {
+                min = arr[i];
             }
         }
         return min;
