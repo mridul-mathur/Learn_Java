@@ -2,15 +2,19 @@ package Notes.BinarySearching;
 
 public class FindInMountainArray {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 5, 4, 3, 1};
-        int target = 4;
+        int[] arr = {0, 2, 4, 6, 7, 5, 3, 1};
+        int target = 7;
         System.out.println(findInMountain(target, arr));
     }
 
     private static int findInMountain(int target, int[] mountainArr) {
         int index = -1;
         int start = 0;
-        int end = peak(mountainArr);
+        int peak = peak(mountainArr);
+        int end = peak;
+        if (mountainArr[peak] == target) {
+            return peak;
+        }
         while (start <= end) {
             int mid = start + (end - start) / 2;
             if (target > mountainArr[mid]) {
@@ -23,7 +27,7 @@ public class FindInMountainArray {
             }
         }
         if (index == -1) {
-            start = peak(mountainArr);
+            start = peak;
             end = mountainArr.length - 1;
             while (start <= end) {
                 int mid = start + (end - start) / 2;

@@ -2,7 +2,7 @@ package Notes.BinarySearching;
 
 public class RotatedArraySearch {
     public static void main(String[] args) {
-        int[] nums = {1, 3};
+        int[] nums = {4, 5, 1, 2, 3};
         int target = 3;
         System.out.println(BinarySearchInRotatedArr(nums, target));
     }

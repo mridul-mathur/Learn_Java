@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 public class CyclicSort {
     public static void main(String[] args) {
-        int[] nums = {6, 5, 4, 3, 2, 1};
-        quicksort(nums);
+        int[] nums = {8,6,4,2,1,3,5,7,9};
+        cyclesort(nums);
         System.out.println(Arrays.toString(nums));
     }
 
-    public static void quicksort(int[] nums) {
+    public static void cyclesort(int[] nums) {
         int i = 0;
         while (i < nums.length) {
             int index = nums[i] - 1;

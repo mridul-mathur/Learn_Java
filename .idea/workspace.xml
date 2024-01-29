@@ -6,10 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/EvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/EvenDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/Search_minimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/Search_minimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FindInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/Greatestchar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/Greatestchar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/PeakIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/PeakIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Methods/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Shadowing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mridulmathur/Documents/Documents - Mridul’s MacBook Air/GitHub/Learn_Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/mridul/IdeaProjects/java/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mridulmathur/Documents/Documents - Mridul’s MacBook Air/GitHub/Learn_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mridul/IdeaProjects/java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CeilingFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Notes.BinarySearching.CeilingFloor" />
@@ -186,6 +191,8 @@
       <workItem from="1704217356818" duration="8000" />
       <workItem from="1704278333773" duration="2107000" />
       <workItem from="1706243036495" duration="6224000" />
+      <workItem from="1706418667000" duration="5232000" />
+      <workItem from="1706432006156" duration="6985000" />
     </task>
     <servers />
   </component>
@@ -250,14 +257,18 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java</url>
           <line>12</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java</url>
+          <line>13</line>
+          <properties class="Notes.Sorting.BubbleSort" method="bubblesort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

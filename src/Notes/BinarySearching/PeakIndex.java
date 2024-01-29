@@ -3,7 +3,9 @@ package Notes.BinarySearching;
 public class PeakIndex {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 5, 4, 3, 1, 0};
-        System.out.println("Peak:" + peakIndexInMountainArray(arr));
+        int pi = peakIndexInMountainArray(arr);
+        System.out.println("Peak Index: " + pi);
+        System.out.println("Peak: " + arr[pi]);
     }
 
     public static int peakIndexInMountainArray(int[] arr) {

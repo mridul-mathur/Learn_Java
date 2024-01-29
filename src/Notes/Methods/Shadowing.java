@@ -10,7 +10,7 @@ public class Shadowing {
         //a=10; this will give error.
         System.out.println(b);//40
         int b;
-        // scowhen value is will begin when value is initialize.
+        // so as the value is will begin when value is initialize.
         b = 20;
         System.out.println(b);//20
         //shadowing in java is using 2 class vars with same

@@ -6,7 +6,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         //comparision sort method
         //AKA Sinking sort or Exchange sort
-        int[] nums = {3, 2, 1, 9, 8, 7};
+        int[] nums = {2, 4, 6, 8, 10, 9, 7, 5, 3, 1};
         bubblesort(nums);
         System.out.println(Arrays.toString(nums));
     }
