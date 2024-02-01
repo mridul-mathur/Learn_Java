@@ -7,7 +7,7 @@ public class MissingNumber {
         System.out.println(missing);
     }
 
-    public static int missingNumber(int[] nums) {
+    private static int missingNumber(int[] nums) {
         int i = 0;
         while (i < nums.length) {
             if (nums[i] < nums.length && nums[i] != nums[nums[i]]) {
@@ -26,7 +26,7 @@ public class MissingNumber {
         return nums.length;
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;

@@ -11,7 +11,7 @@ public class Swap {
         swap(arr, 4, 7);
     }
 
-    static void swap(int[] arr, int i, int j) {
+    private static void swap(int[] arr, int i, int j) {
         System.out.println("Before Swap : " + Arrays.toString(arr));
         int temp = arr[i];
         arr[i] = arr[j];

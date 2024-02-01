@@ -7,7 +7,7 @@ public class RemoveDuplicates {
         System.out.println(k);
     }
 
-    public static int removeDuplicates(int[] nums) {
+    private static int removeDuplicates(int[] nums) {
         int count = 1;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] != nums[i-1]){

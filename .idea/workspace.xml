@@ -5,15 +5,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/GcdStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/BinarySearchRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/NumbOfStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/Power2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/ReverseStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/Appearonce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/FinfithBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/LSRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/MultiLSRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/CountzRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/PallindromeRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/PassingRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/MergeSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/MergeSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/GCD_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/GCD_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/Merge_Strings_Alternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/Merge_Strings_Alternately.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/MostCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MostCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/PlaceFlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/PlaceFlower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/RevWordsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/RevWordsString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/ReverseVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ReverseVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Array_String/Triplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/Triplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Binary_Search/SuccessfulPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/SuccessfulPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Prefix_Sum/HighestAltitude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Prefix_Sum/HighestAltitude.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Prefix_Sum/PivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Prefix_Sum/PivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Sliding_Window/FindMaxAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Sliding_Window/FindMaxAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Sliding_Window/MaxVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Sliding_Window/MaxVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/MaxArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MaxOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/MaxOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/Two_Pointers/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode75/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Dynamic_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Dynamic_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Max_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Max_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Rev_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Rev_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FindInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/FirstLastRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FirstLastRepeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/Greatestchar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/Greatestchar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/PeakIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/PeakIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/BitwiseOpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/BitwiseOpr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/EvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/EvenDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/LinearSearching/SearchInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/LinearSearching/SearchInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Methods/Method_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Method_overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Methods/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Methods/Scoping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Scoping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Methods/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/Shadowing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Methods/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Methods/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/BinarySearchRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/BinarySearchRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Print1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Print1toN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/PrintNto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/PrintNto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Product1ton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Product1ton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Revnumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Revnumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Sum1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Sum1toN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/AllMissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/AllMissingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/FindAllDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/FindDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/FindMissingPositive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SetMismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Star_Pattern/PatternBasic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +91,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,26 +138,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="CeilingFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Notes.BinarySearching.CeilingFloor" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Notes.BinarySearching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CeilingFloor" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -193,6 +240,10 @@
       <workItem from="1706243036495" duration="6224000" />
       <workItem from="1706418667000" duration="5232000" />
       <workItem from="1706432006156" duration="6985000" />
+      <workItem from="1706504616361" duration="12826000" />
+      <workItem from="1706606890887" duration="14922000" />
+      <workItem from="1706698225654" duration="12213000" />
+      <workItem from="1706775948455" duration="1959000" />
     </task>
     <servers />
   </component>
@@ -231,11 +282,6 @@
           <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="3" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode75/Two_Pointers/MoveZeros.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Notes/BinarySearching/RotatedArraySearch.java</url>
           <line>17</line>

@@ -9,7 +9,7 @@ public class AllMissingNumbers {
         System.out.println(list);
     }
 
-    public static ArrayList<Integer> missingNumbers(int[] nums) {
+    private static ArrayList<Integer> missingNumbers(int[] nums) {
         int i = 0;
         while (i < nums.length) {
             int index = nums[i] - 1;
@@ -30,7 +30,7 @@ public class AllMissingNumbers {
         return list;
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;

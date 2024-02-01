@@ -9,7 +9,7 @@ public class SearchInRange {
         System.out.println(SearchInRange(arr, target, 2, 5));
     }
 
-    static int SearchInRange(int[] arr, int target, int start, int end) {
+    private static int SearchInRange(int[] arr, int target, int start, int end) {
         if (arr.length == 0) {
             return -1;
         }

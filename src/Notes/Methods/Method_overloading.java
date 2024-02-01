@@ -14,20 +14,20 @@ public class Method_overloading {
         sum(43, 54, 65);
     }
 
-    static void fun(int a, int b) {
+    private static void fun(int a, int b) {
         System.out.println("FirstOne");
     }
 
-    static void fun(int c, String n) {
+    private static void fun(int c, String n) {
         System.out.println("SecondOne");
     }
 
-    static int sum(int a, int b) {
+    private static int sum(int a, int b) {
         System.out.println(a + b);
         return a + b;
     }
 
-    static int sum(int a, int b, int c) {
+    private static int sum(int a, int b, int c) {
         System.out.println(a + b + c);
         return a + b + c;
     }

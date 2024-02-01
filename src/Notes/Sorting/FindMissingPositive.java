@@ -8,7 +8,7 @@ public class FindMissingPositive {
         System.out.println(firstMissingPositive(nums));
     }
 
-    public static int firstMissingPositive(int[] nums) {
+    private static int firstMissingPositive(int[] nums) {
         int i = 0;
         while (i < nums.length) {
             int index = nums[i] - 1;
@@ -29,7 +29,7 @@ public class FindMissingPositive {
         return -1;
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;

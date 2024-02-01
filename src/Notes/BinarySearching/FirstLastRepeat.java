@@ -8,7 +8,7 @@ public class FirstLastRepeat {
         System.out.println(Arrays.toString(searchrange(arr, 8)));
     }
 
-    public static int[] searchrange(int[] nums, int target) {
+    private static int[] searchrange(int[] nums, int target) {
         int[] ans = {-1, -1};
         int start = search(nums, target, true);
         ans[0] = start;
@@ -18,8 +18,7 @@ public class FirstLastRepeat {
         }
         return ans;
     }
-
-    public static int search(int[] nums, int target, boolean findstart) {
+    private static int search(int[] nums, int target, boolean findstart) {
         int start = 0;
         int end = nums.length - 1;
         int ans = -1;

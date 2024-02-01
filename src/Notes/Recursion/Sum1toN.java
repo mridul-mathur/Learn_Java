@@ -7,7 +7,7 @@ public class Sum1toN {
         System.out.println(sum);
     }
 
-    public static int sumrec(int n) {
+    private static int sumrec(int n) {
         if (n <= 1) {
             return n;
         } else {

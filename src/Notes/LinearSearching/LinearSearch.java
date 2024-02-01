@@ -11,7 +11,7 @@ public class LinearSearch {
         System.out.println("The index of '" + target + "'  is: " + ans);
     }
 
-    public static int linear_search(int[] arr, int target) {
+    private static int linear_search(int[] arr, int target) {
         if (arr.length == 0) {
             return -1;
         } else {

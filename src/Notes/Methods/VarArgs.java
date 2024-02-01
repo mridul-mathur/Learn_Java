@@ -11,7 +11,7 @@ public class VarArgs {
         fun();//an empty array is printed []
     }
 
-    static void fun(int... v) {
+    private static void fun(int... v) {
         /*this internally is taking an array of integers
          */
         System.out.println(Arrays.toString(v));

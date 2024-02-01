@@ -7,7 +7,7 @@ public class SumOfDigits {
         System.out.println(sum);
     }
 
-    public static int sumofdigit(int num) {
+    private static int sumofdigit(int num) {
         if (num > 0) {
             return num % 10 + sumofdigit(num / 10);
         }

@@ -9,7 +9,7 @@ public class FindAllDuplicates {
         System.out.println(list);
     }
 
-    public static ArrayList<Integer> allDuplicates(int[] nums) {
+    private static ArrayList<Integer> allDuplicates(int[] nums) {
         ArrayList<Integer> list = new ArrayList<>();
         int i = 1;
         while (i < nums.length) {
@@ -28,7 +28,7 @@ public class FindAllDuplicates {
         return list;
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;

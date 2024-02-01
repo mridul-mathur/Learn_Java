@@ -9,7 +9,7 @@ public class InsertionSort {
         System.out.println(Arrays.toString(nums));
     }
 
-    public static void insertionsort(int[] nums) {
+    private static void insertionsort(int[] nums) {
         for (int i = 0; i < nums.length - 1; i++) {
             int j = i + 1;
             while (j >= 1) {
@@ -23,7 +23,7 @@ public class InsertionSort {
         }
     }
 
-    public static void swap(int[] nums, int a, int b) {
+    private static void swap(int[] nums, int a, int b) {
         int temp = nums[a];
         nums[a] = nums[b];
         nums[b] = temp;

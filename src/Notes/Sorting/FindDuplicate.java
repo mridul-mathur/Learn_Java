@@ -6,7 +6,7 @@ public class FindDuplicate {
         System.out.println(findDuplicate(nums));
     }
 
-    public static int findDuplicate(int[] nums) {
+    private static int findDuplicate(int[] nums) {
         int i = 1;
         while (i < nums.length) {
             int index = nums[i] - 1;
@@ -19,7 +19,7 @@ public class FindDuplicate {
         return nums[nums.length - 1];
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;

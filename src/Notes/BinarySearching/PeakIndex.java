@@ -8,7 +8,7 @@ public class PeakIndex {
         System.out.println("Peak: " + arr[pi]);
     }
 
-    public static int peakIndexInMountainArray(int[] arr) {
+    private static int peakIndexInMountainArray(int[] arr) {
         if (arr.length < 3) {
             return -1;
         }

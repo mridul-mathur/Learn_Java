@@ -7,7 +7,7 @@ public class EvenDigits {
         System.out.println(num);
     }
 
-    public static int CountEven(int[] arr) {
+    private static int CountEven(int[] arr) {
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
             int numb = arr[i];

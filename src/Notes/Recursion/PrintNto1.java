@@ -6,12 +6,10 @@ public class PrintNto1 {
         printnto1(n);
     }
 
-    public static int printnto1(int n) {
+    private static void printnto1(int n) {
         if (n > 0) {
             System.out.println(n);
-            return printnto1(n - 1);
-        } else {
-            return 0;
+            printnto1(n - 1);
         }
     }
 }

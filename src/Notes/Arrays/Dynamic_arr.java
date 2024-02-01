@@ -32,7 +32,7 @@ public class Dynamic_arr {
         */
     }
 
-    public static int startFrom(ArrayList<Integer> s) {
+    private static int startFrom(ArrayList<Integer> s) {
         int min = 0;
         if (s.get(0) < s.get(1) && s.get(0) <= s.get(2)) {
             min = 0;

@@ -9,7 +9,7 @@ public class CeilingFloor {
         System.out.println(floor);
     }
 
-    public static int ceiling(int[] arr, int target) {
+    private static int ceiling(int[] arr, int target) {
         int start = 0;
         int end = arr.length;
         if (target < arr[0] || arr.length == 1) {

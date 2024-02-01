@@ -45,7 +45,7 @@ public class Scoping {
         return num;
     }
      */
-    static int sum(int a, int b) {
+    private static int sum(int a, int b) {
         int num = a + b;
         return num;
     }

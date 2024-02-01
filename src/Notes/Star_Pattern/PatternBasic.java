@@ -69,7 +69,7 @@ public class PatternBasic {
         pattern6(n);
     }
 
-    public static void pattern1(int n) {
+    private static void pattern1(int n) {
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print("* ");
@@ -78,7 +78,7 @@ public class PatternBasic {
         }
     }
 
-    public static void pattern2(int n) {
+    private static void pattern2(int n) {
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print("* ");
@@ -87,7 +87,7 @@ public class PatternBasic {
         }
     }
 
-    public static void pattern3(int n) {
+    private static void pattern3(int n) {
         for (int i = 1; i <= n; i++) {
             for (int j = n; j >= i; j--) {
                 System.out.print("* ");
@@ -96,7 +96,7 @@ public class PatternBasic {
         }
     }
 
-    public static void pattern4(int n) {
+    private static void pattern4(int n) {
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print("* ");
@@ -104,16 +104,16 @@ public class PatternBasic {
             System.out.println();
         }
         for (int i = 1; i <= n; i++) {
-            for (int j = n; j > i ; j--) {
+            for (int j = n; j > i; j--) {
                 System.out.print("* ");
             }
             System.out.println();
         }
     }
 
-    public static void pattern5(int n){
+    private static void pattern5(int n) {
         for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < n-i; j++) {
+            for (int j = 0; j < n - i; j++) {
                 System.out.print("  ");
             }
             for (int j = 0; j < i; j++) {
@@ -123,12 +123,12 @@ public class PatternBasic {
         }
     }
 
-    public static void pattern6(int n){
+    private static void pattern6(int n) {
         for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < n-i; j++) {
+            for (int j = 0; j < n - i; j++) {
                 System.out.print(" ");
             }
-            for (int j = 0; j < (2*i)-1; j++) {
+            for (int j = 0; j < (2 * i) - 1; j++) {
                 System.out.print("*");
             }
             System.out.println();

@@ -18,7 +18,7 @@ public class Methods {
             return statement;
         }
      */
-    public static int Sum(int a, int b) {
+    private static int Sum(int a, int b) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter num1: ");
         a = in.nextInt();
@@ -31,7 +31,7 @@ public class Methods {
         a function can also be of void type such that
         no return value is required;
     */
-    static void greet() {
+    private static void greet() {
         System.out.println("Hello Boy!" + "\nLet's add->");
     }
 }

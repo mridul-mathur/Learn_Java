@@ -7,7 +7,7 @@ public class Main {
         System.out.println(challenge1(arr , n, 2, 2));
     }
 
-    public static int challenge1(int[] arr, int n, int x, int y) {
+    private static int challenge1(int[] arr, int n, int x, int y) {
         //x is the no. of session i.e. the number of times loop will run
         //y is the index value that is to be incremented.
         //n is starting day.

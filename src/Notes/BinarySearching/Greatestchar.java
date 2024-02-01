@@ -6,7 +6,7 @@ public class Greatestchar {
         System.out.println(greater(arr, 'p'));
     }
 
-    public static char greater(char[] arr, char target) {
+    private static char greater(char[] arr, char target) {
         int start = 0;
         int end = arr.length - 1;
         if (target < arr[0] || target > arr[arr.length - 1]) {

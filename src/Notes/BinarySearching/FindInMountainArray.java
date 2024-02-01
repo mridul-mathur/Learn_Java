@@ -44,7 +44,7 @@ public class FindInMountainArray {
         return index;
     }
 
-    public static int peak(int[] mountainArr) {
+    private static int peak(int[] mountainArr) {
         int start = 0;
         int end = mountainArr.length - 1;
         while (start < end) {

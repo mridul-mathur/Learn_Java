@@ -6,7 +6,7 @@ public class Print1toN {
         print1ton(n);
     }
 
-    public static void print1ton(int n) {
+    private static void print1ton(int n) {
         if (n > 0) {
             print1ton(n - 1);
             System.out.println(n);

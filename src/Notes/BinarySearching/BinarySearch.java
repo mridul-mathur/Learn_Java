@@ -16,7 +16,7 @@ public class BinarySearch {
         System.out.println("Index of target: " + binarySearch(arr, 89));
     }
 
-    public static int binarySearch(int[] arr, int target) {
+    private static int binarySearch(int[] arr, int target) {
         if (arr.length == 0) {
             return -1;
         }

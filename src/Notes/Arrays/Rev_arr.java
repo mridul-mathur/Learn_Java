@@ -8,7 +8,7 @@ public class Rev_arr {
         rev(arr);
     }
 
-    static void rev(int[] arr) {
+    private static void rev(int[] arr) {
         System.out.println("initial arr : " + Arrays.toString(arr));
         int i = 0;
         int j = arr.length - 1;
@@ -20,7 +20,7 @@ public class Rev_arr {
         System.out.println("Reversed arr : " + Arrays.toString(arr));
     }
 
-    static void swap(int[] arr, int i, int j) {
+    private static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;

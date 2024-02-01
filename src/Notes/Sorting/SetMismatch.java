@@ -8,7 +8,7 @@ public class SetMismatch {
         System.out.println(Arrays.toString(findError(nums)));
     }
 
-    public static int[] findError(int[] nums) {
+    private static int[] findError(int[] nums) {
         int[] ans = {-1, -1};
         int i = 0;
         while (i < nums.length) {
@@ -29,7 +29,7 @@ public class SetMismatch {
         return ans;
     }
 
-    public static void swap(int[] arr, int a, int b) {
+    private static void swap(int[] arr, int a, int b) {
         int temp = arr[a];
         arr[a] = arr[b];
         arr[b] = temp;
