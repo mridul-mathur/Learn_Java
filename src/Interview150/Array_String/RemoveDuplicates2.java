@@ -2,14 +2,14 @@ package Interview150.Array_String;
 
 import java.util.Arrays;
 
+//80. Remove Duplicates from Sorted Array II
+
 public class RemoveDuplicates2 {
     public static void main(String[] args) {
-        int [] nums = {0,0,1,1,1,1,2,3,3};
+        int [] nums = {0,1,1,1,1,2,3,3};
         int k = removeDuplicates2(nums);
         System.out.println(k);
         System.out.println(Arrays.toString(nums));
-
-        /* did't got it!!!!!! */
     }
 
     private static int removeDuplicates2(int[] nums) {
