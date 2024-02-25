@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/CheckPangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/CountMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/InvertImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/SmallerNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/FindPeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ArrayForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/KokoBanana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MatDiagSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/Transpose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/GCD_Strings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/GcdStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/GcdStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/TargetArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/TargetArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +178,14 @@
       <workItem from="1706964071012" duration="2311000" />
       <workItem from="1707049869285" duration="5254000" />
       <workItem from="1707063344972" duration="8144000" />
+      <workItem from="1707237617897" duration="7029000" />
+      <workItem from="1707300158105" duration="2548000" />
+      <workItem from="1707407525407" duration="8596000" />
+      <workItem from="1707484049101" duration="1561000" />
+      <workItem from="1707498683267" duration="66000" />
+      <workItem from="1708264835882" duration="10333000" />
+      <workItem from="1708784812014" duration="932000" />
+      <workItem from="1708791390369" duration="4225000" />
     </task>
     <servers />
   </component>
@@ -248,6 +251,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Array_String/ArrayForm.java</url>
+          <line>12</line>
+          <properties class="Leetcode.Array_String.ArrayForm" method="addToArrayForm">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
