@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ArrayForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/KokoBanana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MatDiagSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/PatternRec/Patt1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/ArrayForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/AddtoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/KokoBanana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/KokoBanana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +184,9 @@
       <workItem from="1708264835882" duration="10333000" />
       <workItem from="1708784812014" duration="932000" />
       <workItem from="1708791390369" duration="4225000" />
+      <workItem from="1708857616348" duration="8547000" />
+      <workItem from="1709185994975" duration="398000" />
+      <workItem from="1709450249844" duration="747000" />
     </task>
     <servers />
   </component>
@@ -253,13 +254,22 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Array_String/ArrayForm.java</url>
-          <line>12</line>
-          <properties class="Leetcode.Array_String.ArrayForm" method="addToArrayForm">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java</url>
+          <line>10</line>
+          <properties class="Leetcode.Array_String.MajorityElement" method="majorityElement">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="45" />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Array_String/KokoBanana.java</url>
+          <line>11</line>
+          <properties class="Leetcode.Array_String.KokoBanana" method="minEatingSpeed">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
