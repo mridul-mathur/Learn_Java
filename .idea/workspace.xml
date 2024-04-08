@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SelectionSort.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -193,6 +195,7 @@
       <workItem from="1709185994975" duration="398000" />
       <workItem from="1709450249844" duration="747000" />
       <workItem from="1711661532923" duration="134000" />
+      <workItem from="1712394126894" duration="1429000" />
     </task>
     <servers />
   </component>
