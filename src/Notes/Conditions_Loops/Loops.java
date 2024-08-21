@@ -7,7 +7,8 @@ public class Loops {
         Scanner in = new Scanner(System.in);
 
 
-        /*for loop
+        /*
+        for loop
          syntax-:
             for (initialization; bool exp; updation) {
                 //code
@@ -18,7 +19,8 @@ public class Loops {
         }
 
 
-        /*while loop
+        /*
+        while loop
          syntax-:
             while (bool exp) {
                 //code
@@ -32,7 +34,8 @@ public class Loops {
         System.out.println();
 
 
-        /*do while loop
+        /*
+        do while loop
          syntax-:
             do {
                 //code
@@ -45,7 +48,5 @@ public class Loops {
             System.out.println(str);
             a -= 3;
         } while (a > 0);
-
-
     }
 }

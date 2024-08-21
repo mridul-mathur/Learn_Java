@@ -29,8 +29,8 @@ public class Learn {
         whatever command is given in the terminal as an array it will be
         stored in this variable; */
 
-        System.out.print("Hello World!");
-        System.out.println("My name is Mridul");
+//      System.out.print("Hello World!");
+//      System.out.println("My name is Mridul");
         /* System is also a class ,which contains several useful methods and
         println is a method of it that is prints the string which is inputted;
         out is the variable that is a type of print-stream. where print-stream
@@ -38,8 +38,8 @@ public class Learn {
         representation of various data values;
         if we remove ln them the next one will run in the same line; */
 
-        Scanner input1 = new Scanner(System.in);
-        System.out.println(input1.nextInt());
+//        Scanner input1 = new Scanner(System.in);
+//        System.out.println(input1.nextInt());
         /*.in represents standard input stream ;
         input var of type scanner;
         new keyword is creating a new object;

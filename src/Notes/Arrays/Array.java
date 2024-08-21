@@ -1,5 +1,6 @@
 package Notes.Arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array {
@@ -57,6 +58,7 @@ public class Array {
         for (int i = 0; i < arr1.length; i++) {
             arr1[i] = in.next();
         }
-        System.out.print(java.util.Arrays.toString(arr1));
+        System.out.print(Arrays.toString(arr1));
     }
+
 }

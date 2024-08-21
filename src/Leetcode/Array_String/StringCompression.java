@@ -20,9 +20,7 @@ public class StringCompression {
             }
         }
         char[] ch = sb.toString().toCharArray();
-        for (int i = 0; i < ch.length; i++) {
-            chars[i] = ch[i];
-        }
+        System.arraycopy(ch, 0, chars, 0, ch.length);
         return ch.length;
     }
 }

@@ -39,12 +39,12 @@ public class Product_Sum {
         int s = 0;
         int p = 1;
         while (n > 0) {
-            int x = n%10;
+            int x = n % 10;
             s += x;
             p *= x;
-            n /=10;
+            n /= 10;
         }
-        int sub = p-s;
+        int sub = p - s;
         return sub;
     }
 

@@ -11,6 +11,7 @@ public class Sum_no {
         float num2 = get.nextFloat();
 
         float sum = num1 + num2;
-        System.out.println("the sum of the numbers is " + sum);
+
+        System.out.println("the sum of the numbers is " + (double) sum);
     }
 }

@@ -14,19 +14,19 @@ public class RotatedBSRec {
         if (s > e) {
             return -1;
         }
-        int m = s+(e-s)/2;
-        if (arr[m]==target){
+        int m = s + (e - s) / 2;
+        if (arr[m] == target) {
             return m;
         }
-        if (arr[s]<arr[m]){
-            if (target>= arr[s] && target<=arr[e]){
+        if (arr[s] < arr[m]) {
+            if (target >= arr[s] && target <= arr[e]) {
                 return search(arr, target, s, m);
-            }else{
-                return search(arr, target, m+1, e);
+            } else {
+                return search(arr, target, m + 1, e);
             }
         }
-        if (target>=arr[m] && target<=arr[e]){
-            return search(arr,target,m+1,e);
+        if (target >= arr[m] && target <= arr[e]) {
+            return search(arr, target, m + 1, e);
         }
         return search(arr, target, s, m);
     }

@@ -7,9 +7,8 @@ public class PassingRec {
     }
 
     private static void concept1(int i) {
-        if (i==0){
-            return;
-        }else{
+        if (i == 0) {
+        } else {
             // concept(i--); infinite recursion error.
             /*i-- vs --i
                 i-- passes the value first then subtracts it
@@ -18,12 +17,13 @@ public class PassingRec {
             concept1(--i);
         }
     }
-    private static void concept2(int i){
-        while (i<5){
+
+    private static void concept2(int i) {
+        while (i < 5) {
             System.out.println(++i);
         }
-        i=0;
-        while (i<5){
+        i = 0;
+        while (i < 5) {
             System.out.println(i++);
         }
     }

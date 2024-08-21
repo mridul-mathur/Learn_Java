@@ -34,7 +34,7 @@ public class Questions_lec {
         System.out.println();
         // Q3 Find number of occurances
 
-        int arr[] = {1, 3, 2, 6, 2, 5, 9, 8, 2, 4, 2, 7, 2};
+        int[] arr = {1, 3, 2, 6, 2, 5, 9, 8, 2, 4, 2, 7, 2};
         int count = 0;
         int i = 0;
         while (i < arr.length) {
@@ -100,11 +100,7 @@ public class Questions_lec {
             number /= 10;
             sum += rem * rem * rem;
         }
-        if (sum == arm) {
-            return true;
-        } else {
-            return false;
-        }
+        return sum == arm;
     }
 
     private static boolean isprime(int n1) {

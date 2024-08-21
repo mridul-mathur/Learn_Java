@@ -24,8 +24,9 @@ public class SwitchCase {
         });
 
         //Nested Switch cases
+
         /*
-         switch(expression){
+        switch(expression){
             case 1 :
                 switch(expression_2){
                     case 1 :

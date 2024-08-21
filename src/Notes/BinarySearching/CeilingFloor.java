@@ -38,7 +38,7 @@ public class CeilingFloor {
         if (arr.length == 0) {
             return Integer.MAX_VALUE;
         }
-        if (target >= arr[arr.length - 1] || arr.length==1) {
+        if (target >= arr[arr.length - 1] || arr.length == 1) {
             return arr[arr.length - 1];
         }
         while (start <= end) {

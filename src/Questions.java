@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Questions {
     public static void main(String[] args) {
@@ -37,11 +36,7 @@ public class Questions {
 
     public static boolean deadlineCheck(ArrayList<Integer> d, int day) {
         for (int i = 0; i < d.size(); i++) {
-            if (day == d.get(i)) {
-                return true;
-            } else {
-                return false;
-            }
+            return day == d.get(i);
         }
         return false;
     }

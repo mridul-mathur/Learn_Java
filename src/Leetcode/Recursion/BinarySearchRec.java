@@ -16,14 +16,14 @@ public class BinarySearchRec {
 
     private static int BSRecursion(int[] nums, int target, int start, int end) {
         int mid = start + ((end - start) / 2);
-        if (start>end){
+        if (start > end) {
             return -1;
-        } else if (target==nums[mid]) {
+        } else if (target == nums[mid]) {
             return mid;
         } else if (nums[mid] < target) {
-                return BSRecursion(nums, target, mid+1, end);
-        } else{
-            return BSRecursion(nums, target, start, mid-1);
+            return BSRecursion(nums, target, mid + 1, end);
+        } else {
+            return BSRecursion(nums, target, start, mid - 1);
         }
     }
 }

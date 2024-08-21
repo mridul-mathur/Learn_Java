@@ -17,7 +17,6 @@ public class MultiLSRec {
     private static void multiLSRec1(int[] arr, int target, int i) {
         if (i == arr.length) {
             System.out.println(list);
-            return;
         } else {
             if (arr[i] == target) {
                 list.add(i);

@@ -5,8 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5ab799-28d1-4c68-9979-6f1a8715ae98" name="Changes" comment="q">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRT/ArrayQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRT/Capgemini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRT/ClimbingLeaderboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRT/DiffArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CRT/NextLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest/Biweekly/C134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest/Weekly/C405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contest/Weekly/C406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/BuyandSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/BuyandSell2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/FirstIndexInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/HIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/IndexOfFirstOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/JumpGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/TrappingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Array_String/ZigZag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Binary_Search/MedianofTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Binary_Search/MinInRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Binary_Search/SearchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/DP_1D/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Interval/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Math/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Math/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Math/Sqrtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Two_Pointers/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview150/Two_Pointers/TwoSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/IntegerToSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/IntersectionArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/SumZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ThreeConsecutiveOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Binary_Search/KokoBanana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/LinkedList/MergeNodesinBetweenZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Math/PassthePillow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Prefix_Sum/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Prefix_Sum/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/Sum3_Closest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Linklist/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Linklist/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Linklist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/OOPS_Concepts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/OOPS_Concepts/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/ReversenuMBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/SortingRec/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/SortingRec/SelectionRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/StringRec/RemoveAlla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Recursion/SubsetProblems/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/InPlaceMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes/Sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/MergeSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/MergeSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveDuplicates2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Array_String/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interview150/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interview150/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/InvertImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/InvertImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/ShuffleArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/ShuffleArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/SmallerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/SmallerNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/StringCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array_String/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array_String/Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Condition_Loops/Product_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Condition_Loops/Product_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Recursion/BinarySearchRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/BinarySearchRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Recursion/NumbOfStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/NumbOfStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Recursion/ReverseStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Recursion/ReverseStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Pointers/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Arrays/Dynamic_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Arrays/Dynamic_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Basics/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Basics/Sum_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Basics/Sum_no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/CeilingFloor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/BinarySearching/FirstLastRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/BinarySearching/FirstLastRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/Appearonce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/Appearonce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/FinfithBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Bit_Manupulation/FinfithBit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Conditions_Loops/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Conditions_Loops/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Conditions_Loops/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Conditions_Loops/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Questions_lec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Questions_lec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/LSRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/LSRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/MultiLSRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/MultiLSRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/RotatedBSRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/RotatedBSRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/ArrRec/Sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/BinarySearchRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/BinarySearchRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/CountzRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/CountzRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/PallindromeRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/PallindromeRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/PassingRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/PassingRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/PatternRec/Patt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/PatternRec/Patt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Recursion/Revnumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Recursion/Revnumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/AllMissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/AllMissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/CyclicSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/FindAllDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/FindDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/FindMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/FindMissingPositive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Sorting/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/Sorting/Questions/SetMismatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/StringAndBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes/StringAndStringBuilder/StringAndBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +134,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Notes/Arrays/Arrays.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/CRT/DSA.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -41,31 +150,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SelectionSort.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mridulmathur/Documents/Documents - Mridul’s MacBook Air/GitHub/Learn_Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/mridul/IdeaProjects/java/src/Main.java",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayQues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuyandSell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C134.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C405.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C406.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Candy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Capgemini.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingLeaderboard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DSA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dynamic_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialTrailingZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GasStation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InPlaceMerge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfFirstOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerToSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionArrays2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JumpGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JumpGame2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KokoBanana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Learn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MedianofTwoSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinInRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PallindromeRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassthePillow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Patt1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAlla.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversenuMBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanToInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShuffleArr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortColors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sqrtx.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.StringAndBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum3_Closest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_no.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeConsecutiveOdds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZag.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/GitHub/GitHub/Learn_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mridul/IdeaProjects/java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/n2/kc44n4955bj1dp67qrvw6njm0000gn/T/qodana_output/qodana.sarif.json" reportGuid="faac8669-b63b-4369-97de-69535351d6e5" reportId="Learn_Java/qodana/2024-06-04" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -196,6 +378,67 @@
       <workItem from="1709450249844" duration="747000" />
       <workItem from="1711661532923" duration="134000" />
       <workItem from="1712394126894" duration="1429000" />
+      <workItem from="1712653969968" duration="30000" />
+      <workItem from="1713167030356" duration="513000" />
+      <workItem from="1713894447450" duration="1472000" />
+      <workItem from="1713895935591" duration="3605000" />
+      <workItem from="1714242335358" duration="4000" />
+      <workItem from="1714243708657" duration="5703000" />
+      <workItem from="1714308191710" duration="1886000" />
+      <workItem from="1714327274441" duration="333000" />
+      <workItem from="1714467323129" duration="3841000" />
+      <workItem from="1714550740183" duration="6184000" />
+      <workItem from="1714584108228" duration="885000" />
+      <workItem from="1714586660270" duration="1255000" />
+      <workItem from="1714636640013" duration="4714000" />
+      <workItem from="1714722189270" duration="2599000" />
+      <workItem from="1714757180905" duration="5994000" />
+      <workItem from="1715027934526" duration="5000" />
+      <workItem from="1716210698432" duration="236000" />
+      <workItem from="1716210942889" duration="1025000" />
+      <workItem from="1717403739405" duration="3674000" />
+      <workItem from="1717474119255" duration="4588000" />
+      <workItem from="1717498096399" duration="81000" />
+      <workItem from="1717498186334" duration="11632000" />
+      <workItem from="1717610732382" duration="1030000" />
+      <workItem from="1718103029458" duration="21000" />
+      <workItem from="1718272160707" duration="3124000" />
+      <workItem from="1718548216060" duration="25000" />
+      <workItem from="1718548248767" duration="9681000" />
+      <workItem from="1718574303119" duration="4835000" />
+      <workItem from="1718680501098" duration="2640000" />
+      <workItem from="1718683435900" duration="3160000" />
+      <workItem from="1718718085274" duration="10185000" />
+      <workItem from="1718784249308" duration="2527000" />
+      <workItem from="1718824493672" duration="632000" />
+      <workItem from="1718853230062" duration="5753000" />
+      <workItem from="1718863024407" duration="1219000" />
+      <workItem from="1718887591511" duration="2010000" />
+      <workItem from="1718900342558" duration="2077000" />
+      <workItem from="1718939851625" duration="10455000" />
+      <workItem from="1718986646674" duration="2010000" />
+      <workItem from="1719027428903" duration="12523000" />
+      <workItem from="1719201215311" duration="3098000" />
+      <workItem from="1719286573558" duration="15011000" />
+      <workItem from="1719372135464" duration="9264000" />
+      <workItem from="1719425755102" duration="3538000" />
+      <workItem from="1719459136599" duration="16051000" />
+      <workItem from="1719553189699" duration="814000" />
+      <workItem from="1719595077244" duration="15694000" />
+      <workItem from="1719810746349" duration="8175000" />
+      <workItem from="1719856140778" duration="824000" />
+      <workItem from="1719905208606" duration="7115000" />
+      <workItem from="1720175060285" duration="633000" />
+      <workItem from="1720276798517" duration="5447000" />
+      <workItem from="1720319332539" duration="11171000" />
+      <workItem from="1720368724452" duration="2497000" />
+      <workItem from="1720924563178" duration="5361000" />
+      <workItem from="1721538481699" duration="468000" />
+      <workItem from="1722003747858" duration="8121000" />
+      <workItem from="1722688974316" duration="1776000" />
+      <workItem from="1722697313560" duration="1215000" />
+      <workItem from="1722843116132" duration="1495000" />
+      <workItem from="1723462351233" duration="598000" />
     </task>
     <servers />
   </component>
@@ -244,6 +487,36 @@
           <line>12</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CRT/DiffArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview150/Math/Sqrtx.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Two_Pointers/Sum3_Closest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/IndexOfFirstOccurrence.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/IndexOfFirstOccurrence.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/IndexOfFirstOccurrence.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/Sorting/BubbleSort.java</url>
           <line>13</line>
@@ -264,7 +537,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Leetcode/Array_String/MajorityElement.java</url>
-          <line>10</line>
+          <line>8</line>
           <properties class="Leetcode.Array_String.MajorityElement" method="majorityElement">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -279,6 +552,105 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Notes/Recursion/PatternRec/Patt1.java</url>
+          <line>17</line>
+          <properties class="Notes.Recursion.PatternRec.Patt1" method="print1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Notes/Recursion/Fibonacci.java</url>
+          <line>9</line>
+          <properties class="Notes.Recursion.Fibonacci" method="fib">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/JumpGame.java</url>
+          <line>35</line>
+          <properties class="Interview150.Array_String.JumpGame" method="canJump">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Notes/Recursion/Recursion.java</url>
+          <line>29</line>
+          <properties class="Notes.Recursion.Recursion" method="printnumb">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Binary_Search/KokoBanana.java</url>
+          <line>46</line>
+          <properties class="Leetcode.Binary_Search.KokoBanana" method="minEatingSpeed">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/ZigZag.java</url>
+          <line>52</line>
+          <properties class="Interview150.Array_String.ZigZag" method="convertZigZag">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/GasStation.java</url>
+          <line>53</line>
+          <properties class="Interview150.Array_String.GasStation" method="canCompleteCircuit">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview150/Array_String/TrappingWater.java</url>
+          <line>33</line>
+          <properties class="Interview150.Array_String.TrappingWater" method="trap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contest/Weekly/C405.java</url>
+          <line>55</line>
+          <properties class="Contest.Weekly.C405" method="numberOfSubmatrices">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Contest/Weekly/C406.java</url>
+          <line>25</line>
+          <properties class="Contest.Weekly.C406" method="minimumCost">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview150/Two_Pointers/IsPalindrome.java</url>
+          <line>8</line>
+          <properties class="Interview150.Two_Pointers.IsPalindrome" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package Notes.Sorting;
+package Notes.Sorting.Questions;
 
 import java.util.ArrayList;
 

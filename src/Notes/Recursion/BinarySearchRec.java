@@ -4,7 +4,7 @@ public class BinarySearchRec {
     public static void main(String[] args) {
         int[] arr = {-1, 0, 3, 5, 9, 12};
         int start = 0;
-        int end = arr.length -  1;
+        int end = arr.length - 1;
         System.out.println(BSRecursion(arr, 2, start, end));
     }
 

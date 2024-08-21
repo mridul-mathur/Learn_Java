@@ -18,6 +18,7 @@ public class FirstLastRepeat {
         }
         return ans;
     }
+
     private static int search(int[] nums, int target, boolean findstart) {
         int start = 0;
         int end = nums.length - 1;

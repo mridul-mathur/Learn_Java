@@ -15,7 +15,6 @@ public class CountzRec {
         }
         if (n / 10 == 0) {
             System.out.println(count);
-            return;
         } else {
             count(n / 10);
         }

@@ -22,21 +22,22 @@ public class Recursion {
             }
             function(parameter condition);
         */
-        int n =5;
+        int n = 5;
         System.out.println(printnumb(n));
-        System.out.println(printname("Mridul" , n));
+        System.out.println(printname("Mridul", n));
     }
 
     private static int printnumb(int n) {
-        if (n == 0) {
+       if (n == 0) {
             return n;
         } else {
             System.out.println(n);
             return printnumb(n - 1);
         }
     }
-    private static String printname(String naam,int n){
-        while(n>1) {
+
+    private static String printname(String naam, int n) {
+        while (n > 1) {
             System.out.println(naam);
             n -= 1;
             printname(naam, n);

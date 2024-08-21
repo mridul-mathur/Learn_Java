@@ -1,4 +1,4 @@
-package Notes.Sorting;
+package Notes.Sorting.Questions;
 
 public class MissingNumber {
     public static void main(String[] args) {

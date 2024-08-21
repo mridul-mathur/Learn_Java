@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void main(String[] args) {
-        int[] nums = {9, 8, 7, 3, 2, 1};
+        int[] nums = {1, 2, 4, 5, 3};
         insertionsort(nums);
-        System.out.println(Arrays.toString(nums));
     }
 
     private static void insertionsort(int[] nums) {
+        System.out.println(Arrays.toString(nums));
         for (int i = 0; i < nums.length - 1; i++) {
             int j = i + 1;
             while (j >= 1) {
@@ -27,5 +27,6 @@ public class InsertionSort {
         int temp = nums[a];
         nums[a] = nums[b];
         nums[b] = temp;
+        System.out.println(Arrays.toString(nums));
     }
 }
